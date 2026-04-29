@@ -16,7 +16,6 @@ body {
     line-height: 1.7;
 }
 
-/* Navbar & Hero */
 .hero {
     padding: 120px 0 80px;
     background: radial-gradient(circle at top right, #e3f2fd, transparent);
@@ -29,7 +28,6 @@ body {
     letter-spacing: -1px;
 }
 
-/* Card Style yang Lebih Berdimensi */
 .card {
     background: var(--white);
     border: none;
@@ -45,7 +43,6 @@ body {
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
 }
 
-/* Project Badge */
 .badge-tech {
     background: #f0f3f5;
     color: #636e72;
@@ -58,7 +55,6 @@ body {
     margin-top: 10px;
 }
 
-/* Timeline Pengalaman */
 .experience-item {
     border-left: 2px solid #dfe6e9;
     padding-left: 25px;
