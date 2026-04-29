@@ -1,23 +1,5 @@
-# 🚀 Personal Portfolio - Nurrifani Herdiyanti
+![Screenshot Dashboard](img/preview.png)
+![🚀 Personal Portfolio - Nurrifani Herdiyanti
+Website portofolio dinamis berbasis PHP Native yang mencakup perjalanan saya di Teknik Informatika UMMI, proyek IoT Smart Grain, hingga partisipasi di Samsung Innovation Campus (SIC) 7. Proyek ini dibangun dengan fokus pada keseimbangan antara logika sistem yang kuat dan estetika visual yang minimalis.](preview.png)
 
-<p align="center">
-  <img src="img/preview.png" alt="Screenshot Dashboard Portofolio" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</p>
 
----
-
-## 📑 Tentang Proyek
-Website portofolio dinamis berbasis PHP Native yang mencakup perjalanan saya di Teknik Informatika UMMI, proyek IoT **Smart Grain**, hingga partisipasi di **Samsung Innovation Campus (SIC) 7**.
-
-Proyek ini dibangun dengan fokus pada keseimbangan antara logika sistem yang kuat dan estetika visual yang minimalis.
-
-## 🛠️ Tech Stack
-- **Backend:** PHP Native (PDO)
-- **Database:** MySQL
-- **Frontend:** Bootstrap 5 & Custom CSS
-- **IoT:** Arduino, ESP8266, DHT22 (Smart Grain)
-
-## 🎯 Fitur Utama
-- **CRUD Dinamis:** Mengelola data profil, proyek, dan pengalaman langsung melalui database tanpa ubah kode HTML.
-- **Timeline Experience:** Menampilkan riwayat organisasi dan pencapaian (seperti SIC 7) secara sistematis.
-- **Responsive Design:** Tampilan optimal di berbagai perangkat (Desktop & Mobile).
